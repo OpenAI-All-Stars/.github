@@ -18,7 +18,8 @@
 
 Для оркестрации docker-контейнеров будем использовать **Nomad**.
 
-Создадим кластер по инструкции с [официального сайта](https://developer.hashicorp.com/nomad/tutorials/get-started/gs-start-a-cluster).
+1. [Установим Nomad](https://developer.hashicorp.com/nomad/tutorials/get-started/gs-install)
+2. [Создадим кластер](https://developer.hashicorp.com/nomad/tutorials/get-started/gs-start-a-cluster)
 
 
 <!--
