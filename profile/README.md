@@ -19,8 +19,8 @@
 Для оркестрации docker-контейнеров будем использовать **Nomad**.
 
 1. [Установим Nomad](https://developer.hashicorp.com/nomad/tutorials/get-started/gs-install)
-2. [Создадим кластер](https://developer.hashicorp.com/nomad/tutorials/get-started/gs-start-a-cluster)
-
+2. [Настраиваем демон](https://developer.hashicorp.com/nomad/tutorials/enterprise/production-deployment-guide-vm-with-consul#configure-systemd) (проверьте пути, могут не совпадать в энтерпрайз версии)
+3. Будет полезно настроить файрвол, например [UFW](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04).
 
 <!--
 
